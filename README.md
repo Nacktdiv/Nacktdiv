@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1 align="left">Hay Sigma🧏‍♀️ ?</h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I am Nacktdiv, gen Z with positive aura</h2>
+
+###
+
+<p align="left">🎉 Fun with Robotics, IOT, and AI<br><br>👦 High School Student boy<br>✅ Often forgets homework<br>✅ Always panics during surprise tests<br>✅ And the grades? Well… let’s just say they build character 😅<br><br>I specialize in:<br>yapping 🗣️ and sleep 😪<br>say dreams but never achieve 😊<br>dreaming that she likes me 😶‍🌫️</p>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nacktdiv/Nacktdiv/output/pacman-contribution-graph-dark.svg">
